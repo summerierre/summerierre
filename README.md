@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @summerierre
+- 👋 Hi, I’m @russelbagay
 - 👀 I’m interested in anything that occupies space and has mass.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on coding and stuffs.
